@@ -1,7 +1,10 @@
-[![uchi.03 intro](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+<div align="center">
+  <img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
+</div>
 
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">uchi</a> 
+<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Elcho</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 
 ## 🙋‍♂️ About Me
 
