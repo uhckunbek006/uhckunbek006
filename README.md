@@ -1,11 +1,8 @@
-<div align="center">
-  <img width="800px" height="125px" src="https://elcho911.netlify.app/Elkhan2003-icons/elcho.gif"/>
-</div>
-
-<h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">Elcho</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-
-
+<p align="center">
+  <a href="https://streamable.com/xmp132" target="_blank">
+    <img src="https://i.imgur.com/YOUR_IMAGE.jpg" width="800px" alt="Watch uchi.03 intro video"/>
+  </a>
+</p>
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/uhckunbek006">
