@@ -1,11 +1,4 @@
-<div align="center">
-  <!-- Видео кнопка -->
-  <a href="https://streamable.com/xmp132" target="_blank">
-    <img src="https://img.shields.io/badge/Watch%20Intro%20Video-uchi.03-blue?style=for-the-badge&logo=streamable" alt="Watch Video">
-  </a>
-</div>
-
-<br />
+[![uchi.03 intro](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
 
 <h1 align="center"><span class="hi">Hi there, </span><span class="name">I'm</span> <a class="hi" href="https://github.com/Elkhan2003" target="_blank">uchi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
