@@ -1,7 +1,7 @@
 <p align="center">
-  <a href="https://streamable.com/xmp132" target="_blank">
+  <a href="https://"C:\Users\ASUS\Pictures\Screenshots\xmp132.mp4"" target="_blank">
     <img src="https://i.imgur.com/YOUR_IMAGE.jpg" width="800px" alt="Watch uchi.03 intro video"/>
-  </a>
+  </a>в
 </p>
 ## 🙋‍♂️ About Me
 
