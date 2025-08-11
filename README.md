@@ -1,12 +1,13 @@
 <div align="center">
-  <img width="800px" height="125px" src="(https://github.com/user-attachments/assets/599dce79-d609-4dc9-880f-78d79b045821)"/>
-</div>
+  <img
+      width="800"
+      height="125"
+      src="https://github.com/user-attachments/assets/599dce79-d609-4dc9-880f-78d79b045821"
+      style="object-fit: cover"
+      alt="Gif сүрөт"
+    /></div>
 
-<p align="center">
-  <a href="https://"C:\Users\ASUS\Pictures\Screenshots\xmp132.mp4"" target="_blank">
-    <img src="[https://i.imgur.com/YOUR_IMAGE.jpg](https://github.com/user-attachments/assets/599dce79-d609-4dc9-880f-78d79b045821)" width="800px" alt="Watch uchi.03 intro video"/>
-  </a>в
-</p>
+
 ## 🙋‍♂️ About Me
 
 <a href="https://github.com/uhckunbek006">
