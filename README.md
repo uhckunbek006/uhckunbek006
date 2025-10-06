@@ -43,11 +43,8 @@
     <img src="https://img.shields.io/badge/GitHub-uhckunbek006-181717?style=for-the-badge&logo=github" />
   </a>
       <div class="contacts">
-  <a href="https://wa.me/996990385056"><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
+  <a href="https://wa.me/996708061221><img src="https://img.shields.io/badge/-WhatsApp-090909?style=for-the-badge&logo=WhatsApp&logoColor=4ECB5A"></a>
   <a href="https://@uchkunbek03"><img src="https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9"></a>
-  <a href="https://www.instagram.com/elcho911"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
-  <a href="https://vk.com/elcho_effects"><img src="https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3"></a>
-  <a href="https://www.youtube.com/channel/UC9Vp5dVZkpf7pkffeiADP2A"><img src="https://img.shields.io/badge/-YouTube-090909?style=for-the-badge&logo=YouTube&logoColor=FF0000"></a>
-  <a href="https://www.facebook.com/Elcho911"><img src="https://img.shields.io/badge/-Facebook-090909?style=for-the-badge&logo=Facebook&logoColor=1195F5"></a>
+  <a href="https://www.instagram.com/u4kunbek._0"><img src="https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E"></a>
 </div>
 </div>
