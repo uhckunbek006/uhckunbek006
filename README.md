@@ -3,7 +3,7 @@
 <center>
       <img
         width="1000"
-        height="675"
+        height="375"
         src="https://github.com/user-attachments/assets/599dce79-d609-4dc9-880f-78d79b045821"
         style="object-fit: cover"
         alt="Gif сүрөт"
