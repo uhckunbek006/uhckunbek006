@@ -10,7 +10,8 @@
       />
     </center>
 
-    -----
+    ---
+    
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=uhckunbek006&show_icons=true&theme=tokyonight" height="150" />
