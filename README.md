@@ -19,9 +19,9 @@
 
 ## About Me
 - 👨‍💻 Frontend Developer
-- 🌱 I’m currently learning React, Redux, Next.js
-- 💬 Ask me about JavaScript, TypeScript, HTML, CSS
+- 🌱 I’m currently learning React, Redux, Next.js JavaScript, TypeScript, HTML, CSS
 - 📫 How to reach me: [Contact Me](https://github.com/uhckunbek006)
+- 
 
 ---
 
