@@ -8,9 +8,9 @@
         style="object-fit: cover"
         alt="Gif сүрөт"
       />
-    </center>
+</center>
 
-    ---
+---    
     
 
 <div align="center">
